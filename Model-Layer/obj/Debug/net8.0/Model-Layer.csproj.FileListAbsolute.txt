@@ -1,0 +1,11 @@
+C:\Users\96650\source\repos\Presenter-Layer\Model-Layer\bin\Debug\net8.0\Model-Layer.deps.json
+C:\Users\96650\source\repos\Presenter-Layer\Model-Layer\bin\Debug\net8.0\Model-Layer.dll
+C:\Users\96650\source\repos\Presenter-Layer\Model-Layer\bin\Debug\net8.0\Model-Layer.pdb
+C:\Users\96650\source\repos\Presenter-Layer\Model-Layer\obj\Debug\net8.0\Model-Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96650\source\repos\Presenter-Layer\Model-Layer\obj\Debug\net8.0\Model-Layer.AssemblyInfoInputs.cache
+C:\Users\96650\source\repos\Presenter-Layer\Model-Layer\obj\Debug\net8.0\Model-Layer.AssemblyInfo.cs
+C:\Users\96650\source\repos\Presenter-Layer\Model-Layer\obj\Debug\net8.0\Model-Layer.csproj.CoreCompileInputs.cache
+C:\Users\96650\source\repos\Presenter-Layer\Model-Layer\obj\Debug\net8.0\Model-Layer.dll
+C:\Users\96650\source\repos\Presenter-Layer\Model-Layer\obj\Debug\net8.0\refint\Model-Layer.dll
+C:\Users\96650\source\repos\Presenter-Layer\Model-Layer\obj\Debug\net8.0\Model-Layer.pdb
+C:\Users\96650\source\repos\Presenter-Layer\Model-Layer\obj\Debug\net8.0\ref\Model-Layer.dll

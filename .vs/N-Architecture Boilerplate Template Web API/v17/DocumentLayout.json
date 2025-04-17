@@ -82,21 +82,19 @@
               "RelativeToolTip": "Presenter-Layer\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-17T16:10:08.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T16:10:08.058Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Data-Access-Layer",
+              "Title": "Data-Access-Layer.csproj",
               "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\DataAccess\\Data-Access-Layer.csproj",
               "RelativeDocumentMoniker": "DataAccess\\Data-Access-Layer.csproj",
               "ToolTip": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\DataAccess\\Data-Access-Layer.csproj",
               "RelativeToolTip": "DataAccess\\Data-Access-Layer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-17T16:04:29.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T16:04:29.245Z"
             },
             {
               "$type": "Document",
@@ -121,8 +119,7 @@
               "RelativeToolTip": "DataAccess\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:57:40.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T15:57:40.472Z"
             },
             {
               "$type": "Document",
@@ -134,8 +131,7 @@
               "RelativeToolTip": "DataAccess\\Repositories\\IRepository.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAA0wAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:56:43.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T15:56:43.208Z"
             },
             {
               "$type": "Document",
@@ -147,8 +143,7 @@
               "RelativeToolTip": "DataAccess\\UnitOfWork\\IUnitOfWork .cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:57:00.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T15:57:00.322Z"
             },
             {
               "$type": "Document",
@@ -160,8 +155,7 @@
               "RelativeToolTip": "DataAccess\\Repositories\\GeneralRepository.cs",
               "ViewState": "AgIAAFIAAAAAAAAAAAAiwAsAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:56:48.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T15:56:48.535Z"
             },
             {
               "$type": "Document",
@@ -173,8 +167,7 @@
               "RelativeToolTip": "Presenter-Layer\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:30:15.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T15:30:15.135Z"
             },
             {
               "$type": "Document",
@@ -186,8 +179,7 @@
               "RelativeToolTip": "Model-Layer\\Exceptions\\NotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:52:58.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T15:52:58.742Z"
             },
             {
               "$type": "Document",
@@ -199,8 +191,7 @@
               "RelativeToolTip": "Model-Layer\\Exceptions\\HttpException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:52:56.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T15:52:56.83Z"
             },
             {
               "$type": "Document",
@@ -212,8 +203,7 @@
               "RelativeToolTip": "Model-Layer\\Exceptions\\BadRequestException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:52:54.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T15:52:54.812Z"
             },
             {
               "$type": "Document",
@@ -225,8 +215,7 @@
               "RelativeToolTip": "Model-Layer\\Exceptions\\AuthorizationException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:47:58.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T15:47:58.351Z"
             },
             {
               "$type": "Document",
@@ -238,21 +227,19 @@
               "RelativeToolTip": "Presenter-Layer\\Custom-Middleware\\ErrorHandlingMiddleware.cs",
               "ViewState": "AgIAACwAAAAAAAAAAADgv0IAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:42:50.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T15:42:50.817Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Model-Layer",
+              "Title": "Model-Layer.csproj",
               "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Model-Layer\\Model-Layer.csproj",
               "RelativeDocumentMoniker": "Model-Layer\\Model-Layer.csproj",
               "ToolTip": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Model-Layer\\Model-Layer.csproj",
               "RelativeToolTip": "Model-Layer\\Model-Layer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-17T15:44:39.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T15:44:39.521Z"
             },
             {
               "$type": "Document",
@@ -264,8 +251,7 @@
               "RelativeToolTip": "Model-Layer\\SystemModel\\ApiRespone.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:48:31.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T15:48:31.818Z"
             }
           ]
         }

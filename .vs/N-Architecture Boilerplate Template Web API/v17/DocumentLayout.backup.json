@@ -3,16 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9289FA74-FB05-4445-9921-0A48F391BB7E}|DataAccess\\Data-Access-Layer.csproj|c:\\users\\96650\\source\\repos\\presenter-layer\\dataaccess\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9289FA74-FB05-4445-9921-0A48F391BB7E}|DataAccess\\Data-Access-Layer.csproj|solutionrelative:dataaccess\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD7474E-0320-4DDB-9609-AA18C64DF0DD}|Presenter-Layer\\Presenter-Layer.csproj|c:\\users\\96650\\source\\repos\\presenter-layer\\presenter-layer\\presenter-layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DAD7474E-0320-4DDB-9609-AA18C64DF0DD}|Presenter-Layer\\Presenter-Layer.csproj|solutionrelative:presenter-layer\\presenter-layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9289FA74-FB05-4445-9921-0A48F391BB7E}|DataAccess\\Data-Access-Layer.csproj|c:\\users\\96650\\source\\repos\\presenter-layer\\dataaccess\\data-access-layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9289FA74-FB05-4445-9921-0A48F391BB7E}|DataAccess\\Data-Access-Layer.csproj|solutionrelative:dataaccess\\data-access-layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B217D2A3-29F3-4493-A8C9-E68D6EC0C09F}|Model-Layer\\Model-Layer.csproj|c:\\users\\96650\\source\\repos\\presenter-layer\\model-layer\\model-layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B217D2A3-29F3-4493-A8C9-E68D6EC0C09F}|Model-Layer\\Model-Layer.csproj|solutionrelative:model-layer\\model-layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD7474E-0320-4DDB-9609-AA18C64DF0DD}|Presenter-Layer\\Presenter-Layer.csproj|c:\\users\\96650\\source\\repos\\presenter-layer\\presenter-layer\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DAD7474E-0320-4DDB-9609-AA18C64DF0DD}|Presenter-Layer\\Presenter-Layer.csproj|solutionrelative:presenter-layer\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD7474E-0320-4DDB-9609-AA18C64DF0DD}|Presenter-Layer\\Presenter-Layer.csproj|c:\\users\\96650\\source\\repos\\presenter-layer\\presenter-layer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DAD7474E-0320-4DDB-9609-AA18C64DF0DD}|Presenter-Layer\\Presenter-Layer.csproj|solutionrelative:presenter-layer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD7474E-0320-4DDB-9609-AA18C64DF0DD}|Presenter-Layer\\Presenter-Layer.csproj|c:\\users\\96650\\source\\repos\\presenter-layer\\presenter-layer\\presenter-layer.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DAD7474E-0320-4DDB-9609-AA18C64DF0DD}|Presenter-Layer\\Presenter-Layer.csproj|solutionrelative:presenter-layer\\presenter-layer.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B217D2A3-29F3-4493-A8C9-E68D6EC0C09F}|Model-Layer\\Model-Layer.csproj|c:\\users\\96650\\source\\repos\\presenter-layer\\model-layer\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B217D2A3-29F3-4493-A8C9-E68D6EC0C09F}|Model-Layer\\Model-Layer.csproj|solutionrelative:model-layer\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9289FA74-FB05-4445-9921-0A48F391BB7E}|DataAccess\\Data-Access-Layer.csproj|c:\\users\\96650\\source\\repos\\presenter-layer\\dataaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9289FA74-FB05-4445-9921-0A48F391BB7E}|DataAccess\\Data-Access-Layer.csproj|solutionrelative:dataaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD7474E-0320-4DDB-9609-AA18C64DF0DD}|Presenter-Layer\\Presenter-Layer.csproj|c:\\users\\96650\\source\\repos\\presenter-layer\\presenter-layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD7474E-0320-4DDB-9609-AA18C64DF0DD}|Presenter-Layer\\Presenter-Layer.csproj|solutionrelative:presenter-layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9289FA74-FB05-4445-9921-0A48F391BB7E}|DataAccess\\Data-Access-Layer.csproj|c:\\users\\96650\\source\\repos\\presenter-layer\\dataaccess\\unitofwork\\iunitofwork .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9289FA74-FB05-4445-9921-0A48F391BB7E}|DataAccess\\Data-Access-Layer.csproj|solutionrelative:dataaccess\\unitofwork\\iunitofwork .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9289FA74-FB05-4445-9921-0A48F391BB7E}|DataAccess\\Data-Access-Layer.csproj|c:\\users\\96650\\source\\repos\\presenter-layer\\dataaccess\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9289FA74-FB05-4445-9921-0A48F391BB7E}|DataAccess\\Data-Access-Layer.csproj|solutionrelative:dataaccess\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9289FA74-FB05-4445-9921-0A48F391BB7E}|DataAccess\\Data-Access-Layer.csproj|c:\\users\\96650\\source\\repos\\presenter-layer\\dataaccess\\repositories\\generalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9289FA74-FB05-4445-9921-0A48F391BB7E}|DataAccess\\Data-Access-Layer.csproj|solutionrelative:dataaccess\\repositories\\generalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DAD7474E-0320-4DDB-9609-AA18C64DF0DD}|Presenter-Layer\\Presenter-Layer.csproj|c:\\users\\96650\\source\\repos\\presenter-layer\\presenter-layer\\custom-middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAD7474E-0320-4DDB-9609-AA18C64DF0DD}|Presenter-Layer\\Presenter-Layer.csproj|solutionrelative:presenter-layer\\custom-middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B217D2A3-29F3-4493-A8C9-E68D6EC0C09F}|Model-Layer\\Model-Layer.csproj|c:\\users\\96650\\source\\repos\\presenter-layer\\model-layer\\exceptions\\authorizationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B217D2A3-29F3-4493-A8C9-E68D6EC0C09F}|Model-Layer\\Model-Layer.csproj|solutionrelative:model-layer\\exceptions\\authorizationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAD7474E-0320-4DDB-9609-AA18C64DF0DD}|Presenter-Layer\\Presenter-Layer.csproj|c:\\users\\96650\\source\\repos\\presenter-layer\\presenter-layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAD7474E-0320-4DDB-9609-AA18C64DF0DD}|Presenter-Layer\\Presenter-Layer.csproj|solutionrelative:presenter-layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B217D2A3-29F3-4493-A8C9-E68D6EC0C09F}|Model-Layer\\Model-Layer.csproj|c:\\users\\96650\\source\\repos\\presenter-layer\\model-layer\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,22 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B217D2A3-29F3-4493-A8C9-E68D6EC0C09F}|Model-Layer\\Model-Layer.csproj|c:\\users\\96650\\source\\repos\\presenter-layer\\model-layer\\systemmodel\\apirespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B217D2A3-29F3-4493-A8C9-E68D6EC0C09F}|Model-Layer\\Model-Layer.csproj|solutionrelative:model-layer\\systemmodel\\apirespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B217D2A3-29F3-4493-A8C9-E68D6EC0C09F}|Model-Layer\\Model-Layer.csproj|c:\\users\\96650\\source\\repos\\presenter-layer\\model-layer\\model-layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B217D2A3-29F3-4493-A8C9-E68D6EC0C09F}|Model-Layer\\Model-Layer.csproj|solutionrelative:model-layer\\model-layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9289FA74-FB05-4445-9921-0A48F391BB7E}|DataAccess\\DataAccess.csproj|c:\\users\\96650\\source\\repos\\presenter-layer\\dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9289FA74-FB05-4445-9921-0A48F391BB7E}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF86E92A-9FEA-4562-9077-1358A56163DC}|Validation-Layer\\Validation-Layer.csproj|c:\\users\\96650\\source\\repos\\presenter-layer\\validation-layer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF86E92A-9FEA-4562-9077-1358A56163DC}|Validation-Layer\\Validation-Layer.csproj|solutionrelative:validation-layer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08FE0D6A-869A-427C-9F6A-778A4D07C891}|Service-Layer\\Service-Layer.csproj|c:\\users\\96650\\source\\repos\\presenter-layer\\service-layer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08FE0D6A-869A-427C-9F6A-778A4D07C891}|Service-Layer\\Service-Layer.csproj|solutionrelative:service-layer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +86,171 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\DataAccess\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "DataAccess\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\DataAccess\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "DataAccess\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:29:05.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Presenter-Layer.csproj",
+              "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Presenter-Layer\\Presenter-Layer.csproj",
+              "RelativeDocumentMoniker": "Presenter-Layer\\Presenter-Layer.csproj",
+              "ToolTip": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Presenter-Layer\\Presenter-Layer.csproj",
+              "RelativeToolTip": "Presenter-Layer\\Presenter-Layer.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T16:28:33.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Presenter-Layer\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Presenter-Layer\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Presenter-Layer\\appsettings.Development.json",
+              "RelativeToolTip": "Presenter-Layer\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T16:25:34.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Presenter-Layer\\appsettings.json",
+              "RelativeDocumentMoniker": "Presenter-Layer\\appsettings.json",
+              "ToolTip": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Presenter-Layer\\appsettings.json",
+              "RelativeToolTip": "Presenter-Layer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T16:10:08.058Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Model-Layer.csproj",
+              "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Model-Layer\\Model-Layer.csproj",
+              "RelativeDocumentMoniker": "Model-Layer\\Model-Layer.csproj",
+              "ToolTip": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Model-Layer\\Model-Layer.csproj",
+              "RelativeToolTip": "Model-Layer\\Model-Layer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T15:44:39.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data-Access-Layer.csproj",
+              "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\DataAccess\\Data-Access-Layer.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\Data-Access-Layer.csproj",
+              "ToolTip": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\DataAccess\\Data-Access-Layer.csproj",
+              "RelativeToolTip": "DataAccess\\Data-Access-Layer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T16:04:29.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Presenter-Layer.http",
+              "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Presenter-Layer\\Presenter-Layer.http",
+              "RelativeDocumentMoniker": "Presenter-Layer\\Presenter-Layer.http",
+              "ToolTip": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Presenter-Layer\\Presenter-Layer.http",
+              "RelativeToolTip": "Presenter-Layer\\Presenter-Layer.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-17T16:25:30.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Model-Layer\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Model-Layer\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Model-Layer\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Model-Layer\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:06:03.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\DataAccess\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\DataAccess\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "DataAccess\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T15:57:40.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\DataAccess\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\DataAccess\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA0wAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T15:56:43.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUnitOfWork .cs",
+              "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\DataAccess\\UnitOfWork\\IUnitOfWork .cs",
+              "RelativeDocumentMoniker": "DataAccess\\UnitOfWork\\IUnitOfWork .cs",
+              "ToolTip": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\DataAccess\\UnitOfWork\\IUnitOfWork .cs",
+              "RelativeToolTip": "DataAccess\\UnitOfWork\\IUnitOfWork .cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T15:57:00.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GeneralRepository.cs",
+              "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\DataAccess\\Repositories\\GeneralRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\GeneralRepository.cs",
+              "ToolTip": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\DataAccess\\Repositories\\GeneralRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\GeneralRepository.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAiwAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T15:56:48.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Presenter-Layer\\Program.cs",
+              "RelativeDocumentMoniker": "Presenter-Layer\\Program.cs",
+              "ToolTip": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Presenter-Layer\\Program.cs",
+              "RelativeToolTip": "Presenter-Layer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T15:30:15.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Model-Layer\\Exceptions\\NotFoundException.cs",
               "RelativeDocumentMoniker": "Model-Layer\\Exceptions\\NotFoundException.cs",
@@ -66,12 +258,11 @@
               "RelativeToolTip": "Model-Layer\\Exceptions\\NotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:52:58.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T15:52:58.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "HttpException.cs",
               "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Model-Layer\\Exceptions\\HttpException.cs",
               "RelativeDocumentMoniker": "Model-Layer\\Exceptions\\HttpException.cs",
@@ -79,12 +270,11 @@
               "RelativeToolTip": "Model-Layer\\Exceptions\\HttpException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:52:56.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T15:52:56.83Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "BadRequestException.cs",
               "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Model-Layer\\Exceptions\\BadRequestException.cs",
               "RelativeDocumentMoniker": "Model-Layer\\Exceptions\\BadRequestException.cs",
@@ -92,12 +282,11 @@
               "RelativeToolTip": "Model-Layer\\Exceptions\\BadRequestException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:52:54.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T15:52:54.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "AuthorizationException.cs",
               "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Model-Layer\\Exceptions\\AuthorizationException.cs",
               "RelativeDocumentMoniker": "Model-Layer\\Exceptions\\AuthorizationException.cs",
@@ -105,25 +294,11 @@
               "RelativeToolTip": "Model-Layer\\Exceptions\\AuthorizationException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:47:58.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T15:47:58.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Presenter-Layer\\Program.cs",
-              "RelativeDocumentMoniker": "Presenter-Layer\\Program.cs",
-              "ToolTip": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Presenter-Layer\\Program.cs",
-              "RelativeToolTip": "Presenter-Layer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:30:15.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "ErrorHandlingMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Presenter-Layer\\Custom-Middleware\\ErrorHandlingMiddleware.cs",
               "RelativeDocumentMoniker": "Presenter-Layer\\Custom-Middleware\\ErrorHandlingMiddleware.cs",
@@ -131,12 +306,11 @@
               "RelativeToolTip": "Presenter-Layer\\Custom-Middleware\\ErrorHandlingMiddleware.cs",
               "ViewState": "AgIAACwAAAAAAAAAAADgv0IAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:42:50.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T15:42:50.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "ApiRespone.cs",
               "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Model-Layer\\SystemModel\\ApiRespone.cs",
               "RelativeDocumentMoniker": "Model-Layer\\SystemModel\\ApiRespone.cs",
@@ -144,60 +318,7 @@
               "RelativeToolTip": "Model-Layer\\SystemModel\\ApiRespone.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:48:31.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Model-Layer",
-              "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Model-Layer\\Model-Layer.csproj",
-              "RelativeDocumentMoniker": "Model-Layer\\Model-Layer.csproj",
-              "ToolTip": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Model-Layer\\Model-Layer.csproj",
-              "RelativeToolTip": "Model-Layer\\Model-Layer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-17T15:44:39.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\DataAccess\\Class1.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Class1.cs",
-              "ToolTip": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\DataAccess\\Class1.cs",
-              "RelativeToolTip": "DataAccess\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:31:23.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Validation-Layer\\Class1.cs",
-              "RelativeDocumentMoniker": "Validation-Layer\\Class1.cs",
-              "ToolTip": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Validation-Layer\\Class1.cs",
-              "RelativeToolTip": "Validation-Layer\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:31:11.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Service-Layer\\Class1.cs",
-              "RelativeDocumentMoniker": "Service-Layer\\Class1.cs",
-              "ToolTip": "C:\\Users\\96650\\source\\repos\\Presenter-Layer\\Service-Layer\\Class1.cs",
-              "RelativeToolTip": "Service-Layer\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:30:54.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T15:48:31.818Z"
             }
           ]
         }

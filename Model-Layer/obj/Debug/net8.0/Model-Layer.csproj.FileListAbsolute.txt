@@ -9,3 +9,5 @@ C:\Users\96650\source\repos\Presenter-Layer\Model-Layer\obj\Debug\net8.0\Model-L
 C:\Users\96650\source\repos\Presenter-Layer\Model-Layer\obj\Debug\net8.0\refint\Model-Layer.dll
 C:\Users\96650\source\repos\Presenter-Layer\Model-Layer\obj\Debug\net8.0\Model-Layer.pdb
 C:\Users\96650\source\repos\Presenter-Layer\Model-Layer\obj\Debug\net8.0\ref\Model-Layer.dll
+C:\Users\96650\source\repos\Presenter-Layer\Model-Layer\obj\Debug\net8.0\Model-Layer.csproj.AssemblyReference.cache
+C:\Users\96650\source\repos\Presenter-Layer\Model-Layer\obj\Debug\net8.0\Model-Layer.sourcelink.json

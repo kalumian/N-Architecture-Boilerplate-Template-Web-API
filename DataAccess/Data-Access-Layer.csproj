@@ -14,4 +14,8 @@
     <ProjectReference Include="..\Model-Layer\Model-Layer.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Configurations\" />
+  </ItemGroup>
+
 </Project>
